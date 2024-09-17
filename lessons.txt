@@ -1,0 +1,6 @@
+
+.I learnt what Git and version control is
+.I learnt what Github
+.I learn the diference between git and github
+.I learnt how to setup Git on my system
+.I learnt how to create a github account and push to it
